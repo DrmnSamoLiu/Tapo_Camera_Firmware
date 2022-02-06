@@ -21,3 +21,14 @@ en_1.1.16_Build_211209_Rel.37726n:
 [http://download.tplinkcloud.com/firmware/Tapo_C200v1_en_1.1.16_Build_211209_Rel.37726n__1640684337995.bin](http://download.tplinkcloud.com/firmware/Tapo_C200v1_en_1.1.16_Build_211209_Rel.37726n__1640684337995.bin)
 
 ---
+
+<br>
+<br>
+
+
+
+## C110_v1
+
+en_1.1.12_Build_211028_Rel.22161n:
+
+[http://download.tplinkcloud.com/firmware/Tapo_C110v1_en_1.1.12_Build_211028_Rel.22161n__1639098442353.bin](http://download.tplinkcloud.com/firmware/Tapo_C110v1_en_1.1.12_Build_211028_Rel.22161n__1639098442353.bin)
