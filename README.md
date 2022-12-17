@@ -40,5 +40,4 @@ en_1.1.12_Build_211028_Rel.22161n:
 
 en_1.3.2_Build_220901_Rel.74359n:
 
-[http://download.tplinkcloud.com/firmware/Tapo_C310v1_en_1.3.2_Build_220901_Rel.74359n_u_1668586937997.bin]
-(http://download.tplinkcloud.com/firmware/Tapo_C310v1_en_1.3.2_Build_220901_Rel.74359n_u_1668586937997.bin)
+[http://download.tplinkcloud.com/firmware/Tapo_C310v1_en_1.3.2_Build_220901_Rel.74359n_u_1668586937997.bin](http://download.tplinkcloud.com/firmware/Tapo_C310v1_en_1.3.2_Build_220901_Rel.74359n_u_1668586937997.bin)
