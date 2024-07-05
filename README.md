@@ -13,6 +13,16 @@ en_1.1.15_Build_211130_Rel.15378n:
 <br>
 
 
+## C110_v1
+
+(Update 2024/7/5)<br>
+en_1.3.11_Build_231117_Rel.47346n:
+
+[http://download.tplinkcloud.com/firmware/Tapo_C110v1_en_1.3.11_Build_231117_Rel.47346n_up_boot-signed_1700807920197.bin](http://download.tplinkcloud.com/firmware/Tapo_C110v1_en_1.3.11_Build_231117_Rel.47346n_up_boot-signed_1700807920197.bin)
+
+---
+<br>
+<br>
 
 ## C200_v1
 
@@ -20,15 +30,16 @@ en_1.1.16_Build_211209_Rel.37726n:
 
 [http://download.tplinkcloud.com/firmware/Tapo_C200v1_en_1.1.16_Build_211209_Rel.37726n__1640684337995.bin](http://download.tplinkcloud.com/firmware/Tapo_C200v1_en_1.1.16_Build_211209_Rel.37726n__1640684337995.bin)
 
+
 ---
-
 <br>
 <br>
 
 
+## C210_v1
+(Update 2024/7/5)<br>
+en_1.3.11_Build_231117_Rel.36789n_up_boot-signed_1701154342867:
 
-## C110_v1
+[http://download.tplinkcloud.com/firmware/Tapo_C210v1_en_1.3.11_Build_231117_Rel.36789n_up_boot-signed_1701154342867.bin](http://download.tplinkcloud.com/firmware/Tapo_C210v1_en_1.3.11_Build_231117_Rel.36789n_up_boot-signed_1701154342867.bin)
 
-en_1.1.12_Build_211028_Rel.22161n:
-
-[http://download.tplinkcloud.com/firmware/Tapo_C110v1_en_1.1.12_Build_211028_Rel.22161n__1639098442353.bin](http://download.tplinkcloud.com/firmware/Tapo_C110v1_en_1.1.12_Build_211028_Rel.22161n__1639098442353.bin)
+---
